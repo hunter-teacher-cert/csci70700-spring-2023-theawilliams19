@@ -1,5 +1,13 @@
 Flask Website Project: https://replit.com/@theawilliams19/CS-Social-Justice-Warriors-Website-with-Flask
 
+Routes:
+index.html
+about.html
+plhistory.html
+news.html
+upcoming.html
+contactus.html
+
 * Instructions
 
 ** If you are presenting this unit:
