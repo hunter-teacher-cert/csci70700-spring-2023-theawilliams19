@@ -2,10 +2,17 @@ Flask Website Project: https://replit.com/@theawilliams19/CS-Social-Justice-Warr
 
 Routes:
 index.html
+
 about.html
+
+challenge.html
+
 plhistory.html
+
 news.html
+
 upcoming.html
+
 contactus.html
 
 * Instructions
