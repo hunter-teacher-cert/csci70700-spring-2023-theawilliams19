@@ -7,4 +7,6 @@ https://replit.com/@theawilliams19/DecryptionHWpy#main.py
 
 Part 2: Encoding a Message
 
+https://replit.com/@theawilliams19/EncryptionHWpy#main.py
+
 
