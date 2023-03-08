@@ -1,2 +1,7 @@
 A-Frame Mild Project Link:
+
 https://replit.com/@theawilliams19/AFrame-3D-Graphics-Homework#index.html
+
+A-Frame Spicy Project Link:
+
+https://replit.com/@theawilliams19/AFrame-3D-Graphics-Homework-Spicy#index.html
